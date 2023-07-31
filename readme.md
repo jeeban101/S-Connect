@@ -1,7 +1,7 @@
-# S-Connect
-
-![S-Connect Logo](https://drive.google.com/file/d/1PTMH3p642czj8H_eNIXep7pIInF6Igti/view?usp=sharing)
+S-Connect
 This project repo contains low level diagrams of S-Connect service(base idea) following Object Oriented Analysis and Design(OOAD) and sample java class file.Additionally contains report file for details.
+
+# S-Connect
 
 ## Table of Contents
 
