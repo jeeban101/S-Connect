@@ -1,6 +1,6 @@
 # S-Connect
 
-![S-Connect Logo](link_to_logo.png)
+![S-Connect Logo](https://drive.google.com/file/d/1PTMH3p642czj8H_eNIXep7pIInF6Igti/view?usp=sharing)
 This project repo contains low level diagrams of S-Connect service(base idea) following Object Oriented Analysis and Design and sample java class file.Additionally contains report file for details.
 
 ## Table of Contents
@@ -38,6 +38,17 @@ Software Ideas Modeler is the work of Slovak software developer Dušan Rodina. T
 - State Transition Diagram (Admin Side)
 - Component Diagram
 - Deployment Diagram
+## Contributors
+- Jeeban Bhagat (20BIT0441, VIT,Vellore)
+
+
+##Edit and Modify Code
+Anyone is welcome to edit and modify the code for S-Connect. If you wish to contribute to this project, follow these steps:
+
+Fork the repository to your GitHub account.
+Make the desired changes and improvements in your forked repository.
+Submit a pull request to the main repository (https://github.com/your_username/S-Connect) with a clear description of the changes you made.
+
 
 ## Sample Codes
 
@@ -57,13 +68,3 @@ class Bank {
     // Code snippet for Bank class
     // ...
 }
-## Contributors
-- Jeeban Bhagat (20BIT0441, VIT,Vellore)
-
-
-##Edit and Modify Code
-Anyone is welcome to edit and modify the code for S-Connect. If you wish to contribute to this project, follow these steps:
-
-Fork the repository to your GitHub account.
-Make the desired changes and improvements in your forked repository.
-Submit a pull request to the main repository (https://github.com/your_username/S-Connect) with a clear description of the changes you made.
