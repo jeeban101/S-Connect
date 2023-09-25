@@ -41,7 +41,7 @@ Software Ideas Modeler is the work of Slovak software developer Dušan Rodina. T
 
 
 ##Edit and Modify Code
-Anyone is welcome to edit and modify the code for S-Connect. If you wish to contribute to this project, follow these steps:
+Anyone is welcome to edit and modify the code for S-Connect. If you wish to contribute to this project, follow these steps:-
 
 Fork the repository to your GitHub account.
 Make the desired changes and improvements in your forked repository.
