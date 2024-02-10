@@ -1,5 +1,5 @@
 # S-Connect
-This project repo contains low level diagrams of S-Connect service(base idea) following Object Oriented Analysis and Design(OOAD) and sample java class file.Additionally contains report file for details.
+This project repo contains low level diagrams(low level design for an app) of S-Connect service(base idea) following Object Oriented Analysis and Design(OOAD) and sample java class file.Additionally contains report file for details.
 
 ## Table of Contents
 
